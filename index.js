@@ -7,7 +7,7 @@ for (item of btn) {
     if (btntext == 'x') {
       btntext = '*';
     }
-    if (btntext == '/') {
+    if (btntext == '÷') {
       btntext = '/';
     }
     screen.value += btntext;
